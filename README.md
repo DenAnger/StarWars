@@ -17,7 +17,7 @@ This is a simple iOS application that allows you to browse and bookmark characte
 Clone the repository and open the project in Xcode. Make sure you have the latest version of Xcode installed.
 
 ```
-git clone https://github.com/DenAnger/swapi-viewer.git
+git clone https://github.com/DenAnger/StarWars.git
 ```
 
 Open the project in Xcode using the generated `.xcodeproj` file.
